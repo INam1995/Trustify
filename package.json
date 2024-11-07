@@ -1,0 +1,31 @@
+{
+  "name": "trustify",
+  "version": "1.0.0",
+  "description": "Trustify - A decentralized reputation system for freelancers",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "web3",
+    "decentralized",
+    "blockchain",
+    "freelancers",
+    "reputation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.1",
+    "ethers": "^6.0.0",
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
